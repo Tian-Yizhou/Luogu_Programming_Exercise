@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+
+# my directories
+build/
+Course_Code/
+Env_Setup/
+Exercise_Manual_Code/
+Key_Knowledge/
+Script/
+*.exe
